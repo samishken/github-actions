@@ -2,6 +2,10 @@ Github Actions
 
 what are actions? 
 - actions are custom applications that perform repetitive tasks. 
+- Actions:
+    --- Prebuilt, reusable automation components designed to execute specific tasks
+    --- Github MarketPlace
+    --- "checkout action"
 
 
 - Workflow
